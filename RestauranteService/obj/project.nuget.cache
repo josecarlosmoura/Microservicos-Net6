@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/cq9DgT9JJpQxWBGVVI7CLksuKWIpmXR4J/GPXNXhsqCglITUv6xtSRxkW6ywa+i+leSmQHZ8IbEDaGj2SNGSw==",
+  "dgSpecHash": "tMaL1UHFhW7lZj61JfxIsyPR065u0PHUnjvhAHTVwmoo3g0f5KP0YFuv6BsLnMOTKwqOhOHtYICk3OBKeiyvAg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Alura\\2461-microservices-dotnet-Ini\\RestauranteService\\RestauranteService.csproj",
+  "projectFilePath": "C:\\Projects\\Alura\\Microservicos-Net6\\RestauranteService\\RestauranteService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josec\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\josec\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

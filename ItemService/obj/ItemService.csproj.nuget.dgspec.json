@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Alura\\2461-microservices-dotnet-Ini\\ItemService\\ItemService.csproj": {}
+    "C:\\Projects\\Alura\\Microservicos-Net6\\ItemService\\ItemService.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Alura\\2461-microservices-dotnet-Ini\\ItemService\\ItemService.csproj": {
+    "C:\\Projects\\Alura\\Microservicos-Net6\\ItemService\\ItemService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Alura\\2461-microservices-dotnet-Ini\\ItemService\\ItemService.csproj",
+        "projectUniqueName": "C:\\Projects\\Alura\\Microservicos-Net6\\ItemService\\ItemService.csproj",
         "projectName": "ItemService",
-        "projectPath": "C:\\Projects\\Alura\\2461-microservices-dotnet-Ini\\ItemService\\ItemService.csproj",
+        "projectPath": "C:\\Projects\\Alura\\Microservicos-Net6\\ItemService\\ItemService.csproj",
         "packagesPath": "C:\\Users\\josec\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Alura\\2461-microservices-dotnet-Ini\\ItemService\\obj\\",
+        "outputPath": "C:\\Projects\\Alura\\Microservicos-Net6\\ItemService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josec\\AppData\\Roaming\\NuGet\\NuGet.Config",

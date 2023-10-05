@@ -1277,11 +1277,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Alura\\2461-microservices-dotnet-Ini\\RestauranteService\\RestauranteService.csproj",
+      "projectUniqueName": "C:\\Projects\\Alura\\Microservicos-Net6\\RestauranteService\\RestauranteService.csproj",
       "projectName": "RestauranteService",
-      "projectPath": "C:\\Projects\\Alura\\2461-microservices-dotnet-Ini\\RestauranteService\\RestauranteService.csproj",
+      "projectPath": "C:\\Projects\\Alura\\Microservicos-Net6\\RestauranteService\\RestauranteService.csproj",
       "packagesPath": "C:\\Users\\josec\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Alura\\2461-microservices-dotnet-Ini\\RestauranteService\\obj\\",
+      "outputPath": "C:\\Projects\\Alura\\Microservicos-Net6\\RestauranteService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josec\\AppData\\Roaming\\NuGet\\NuGet.Config",
